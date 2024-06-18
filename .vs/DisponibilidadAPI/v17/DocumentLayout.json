@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED620967-5FCE-4628-86B3-4FDE6A84AC02}|DisponibilidadAPI.Tests\\DisponibilidadAPI.Tests.csproj|c:\\workspacevisualstudioeve\\disponibilidadapi\\disponibilidadapi.tests\\disponibilidadapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED620967-5FCE-4628-86B3-4FDE6A84AC02}|DisponibilidadAPI.Tests\\DisponibilidadAPI.Tests.csproj|solutionrelative:disponibilidadapi.tests\\disponibilidadapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|c:\\workspacevisualstudioeve\\disponibilidadapi\\disponibilidadapi\\controllers\\disponibilidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|solutionrelative:disponibilidadapi\\controllers\\disponibilidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|c:\\workspacevisualstudioeve\\disponibilidadapi\\disponibilidadapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|solutionrelative:disponibilidadapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|c:\\workspacevisualstudioeve\\disponibilidadapi\\disponibilidadapi\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|solutionrelative:disponibilidadapi\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|c:\\workspacevisualstudioeve\\disponibilidadapi\\disponibilidadapi\\models\\disponibilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|solutionrelative:disponibilidadapi\\models\\disponibilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|c:\\workspacevisualstudioeve\\disponibilidadapi\\disponibilidadapi\\enums\\tipodisponibilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|solutionrelative:disponibilidadapi\\enums\\tipodisponibilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|c:\\workspacevisualstudioeve\\disponibilidadapi\\disponibilidadapi\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|solutionrelative:disponibilidadapi\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|c:\\workspacevisualstudioeve\\disponibilidadapi\\disponibilidadapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|solutionrelative:disponibilidadapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|c:\\workspacevisualstudioeve\\disponibilidadapi\\disponibilidadapi\\models\\combinaciondatajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|solutionrelative:disponibilidadapi\\models\\combinaciondatajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|c:\\workspacevisualstudioeve\\disponibilidadapi\\disponibilidadapi\\disponibilidadapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6A97F90-FC1E-4502-BDB5-E7F0FFBA1811}|DisponibilidadAPI\\DisponibilidadAPI.csproj|solutionrelative:disponibilidadapi\\disponibilidadapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 369,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisponibilidadAPITests.cs",
+              "DocumentMoniker": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI.Tests\\DisponibilidadAPITests.cs",
+              "RelativeDocumentMoniker": "DisponibilidadAPI.Tests\\DisponibilidadAPITests.cs",
+              "ToolTip": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI.Tests\\DisponibilidadAPITests.cs",
+              "RelativeToolTip": "DisponibilidadAPI.Tests\\DisponibilidadAPITests.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAwwMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:44:15.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoDisponibilidad.cs",
+              "DocumentMoniker": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Enums\\TipoDisponibilidad.cs",
+              "RelativeDocumentMoniker": "DisponibilidadAPI\\Enums\\TipoDisponibilidad.cs",
+              "ToolTip": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Enums\\TipoDisponibilidad.cs",
+              "RelativeToolTip": "DisponibilidadAPI\\Enums\\TipoDisponibilidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:31:03.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "DisponibilidadAPI\\Models\\Empleado.cs",
+              "ToolTip": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Models\\Empleado.cs",
+              "RelativeToolTip": "DisponibilidadAPI\\Models\\Empleado.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:11:58.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "DisponibilidadAPI\\Models\\Equipo.cs",
+              "ToolTip": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Models\\Equipo.cs",
+              "RelativeToolTip": "DisponibilidadAPI\\Models\\Equipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:33:04.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Disponibilidad.cs",
+              "DocumentMoniker": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Models\\Disponibilidad.cs",
+              "RelativeDocumentMoniker": "DisponibilidadAPI\\Models\\Disponibilidad.cs",
+              "ToolTip": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Models\\Disponibilidad.cs",
+              "RelativeToolTip": "DisponibilidadAPI\\Models\\Disponibilidad.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:59:38.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DisponibilidadAPI\\Program.cs",
+              "ToolTip": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Program.cs",
+              "RelativeToolTip": "DisponibilidadAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:16:57.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Data\\data.json",
+              "RelativeDocumentMoniker": "DisponibilidadAPI\\Data\\data.json",
+              "ToolTip": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Data\\data.json",
+              "RelativeToolTip": "DisponibilidadAPI\\Data\\data.json",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAACsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T18:41:54.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisponibilidadController.cs",
+              "DocumentMoniker": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Controllers\\DisponibilidadController.cs",
+              "RelativeDocumentMoniker": "DisponibilidadAPI\\Controllers\\DisponibilidadController.cs",
+              "ToolTip": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Controllers\\DisponibilidadController.cs",
+              "RelativeToolTip": "DisponibilidadAPI\\Controllers\\DisponibilidadController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:18:30.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CombinacionDataJson.cs",
+              "DocumentMoniker": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Models\\CombinacionDataJson.cs",
+              "RelativeDocumentMoniker": "DisponibilidadAPI\\Models\\CombinacionDataJson.cs",
+              "ToolTip": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\Models\\CombinacionDataJson.cs",
+              "RelativeToolTip": "DisponibilidadAPI\\Models\\CombinacionDataJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:35:27.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DisponibilidadAPI.csproj",
+              "DocumentMoniker": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\DisponibilidadAPI.csproj",
+              "RelativeDocumentMoniker": "DisponibilidadAPI\\DisponibilidadAPI.csproj",
+              "ToolTip": "C:\\WorkspaceVisualStudioEve\\DisponibilidadAPI\\DisponibilidadAPI\\DisponibilidadAPI.csproj",
+              "RelativeToolTip": "DisponibilidadAPI\\DisponibilidadAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T15:33:41.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

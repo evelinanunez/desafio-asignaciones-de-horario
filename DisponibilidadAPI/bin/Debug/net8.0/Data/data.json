@@ -1,0 +1,265 @@
+﻿{
+  "empleados": [
+  {
+    "Legajo": 1,
+    "Nombre": "Juan Pérez",
+    "Disponibilidades"
+    :
+    [
+      {
+        "Tipo": "FinDeSemana",
+        "Dias": []
+      }
+    ],
+    "PerteneceAUnEquipo"
+    :
+    true
+  },
+  {
+    "Legajo": 2,
+    "Nombre": "Ana López",
+    "Disponibilidades": [
+      {
+        "Tipo": "FinDeSemana",
+        "Dias": []
+      }
+    ],
+    "PerteneceAUnEquipo": true
+  },
+  {
+    "Legajo": 3,
+    "Nombre": "Carlos Martínez",
+    "Disponibilidades": [
+      {
+        "Tipo": "FinDeSemana",
+        "Dias": []
+      }
+    ],
+    "PerteneceAUnEquipo": true
+  },
+  {
+    "Legajo": 4,
+    "Nombre": "Lucía Gómez",
+    "Disponibilidades": [
+      {
+        "Tipo": "EntreSemana",
+        "Dias": []
+      }
+    ],
+    "PerteneceAUnEquipo": false
+  },
+  {
+    "Legajo": 5,
+    "Nombre": "Miguel Torres",
+    "Disponibilidades": [
+      {
+        "Tipo": "EntreSemana",
+        "Dias": []
+      }
+    ],
+    "PerteneceAUnEquipo": false
+  },
+  {
+    "Legajo": 6,
+    "Nombre": "María Fernández",
+    "Disponibilidades": [
+      {
+        "Tipo": "FinDeSemana",
+        "Dias": []
+      },
+      {
+        "Tipo": "DiaDelMes",
+        "Dias": [ 5, 15 ]
+      }
+    ],
+    "PerteneceAUnEquipo": true
+  },
+  {
+    "Legajo": 7,
+    "Nombre": "Diego Ramírez",
+    "Disponibilidades": [
+      {
+        "Tipo": "FinDeSemana",
+        "Dias": []
+      },
+      {
+        "Tipo": "DiaDelMes",
+        "Dias": [ 10, 20 ]
+      }
+    ],
+    "PerteneceAUnEquipo": true
+  },
+  {
+    "Legajo": 8,
+    "Nombre": "Sofía García",
+    "Disponibilidades": [
+      {
+        "Tipo": "FinDeSemana",
+        "Dias": []
+      },
+      {
+        "Tipo": "Miercoles",
+        "Dias": []
+      }
+    ],
+    "PerteneceAUnEquipo": true
+  },
+  {
+    "Legajo": 9,
+    "Nombre": "Pedro Díaz",
+    "Disponibilidades": [
+      {
+        "Tipo": "FinDeSemana",
+        "Dias": []
+      },
+      {
+        "Tipo": "Miercoles",
+        "Dias": []
+      }
+    ],
+    "PerteneceAUnEquipo": true
+  },
+  {
+    "Legajo": 10,
+    "Nombre": "Laura Sánchez",
+    "Disponibilidades": [
+      {
+        "Tipo": "FinDeSemana",
+        "Dias": []
+      },
+      {
+        "Tipo": "Miercoles",
+        "Dias": []
+      }
+    ],
+    "PerteneceAUnEquipo": true
+  }
+ ],
+  "equipos": [
+    {
+      "Nombre": "Equipo A",
+      "Empleados": [
+        {
+          "Legajo": 1,
+          "Nombre": "Juan Pérez",
+          "Disponibilidades": [
+            {
+              "Tipo": "FinDeSemana",
+              "Dias": []
+            }
+          ],
+          "PerteneceAUnEquipo": true
+        },
+        {
+          "Legajo": 2,
+          "Nombre": "Ana López",
+          "Disponibilidades": [
+            {
+              "Tipo": "FinDeSemana",
+              "Dias": []
+            }
+          ],
+          "PerteneceAUnEquipo": true
+        },
+        {
+          "Legajo": 3,
+          "Nombre": "Carlos Martínez",
+          "Disponibilidades": [
+            {
+              "Tipo": "FinDeSemana",
+              "Dias": []
+            }
+          ],
+          "PerteneceAUnEquipo": true
+        },
+        {
+          "Legajo": 8,
+          "Nombre": "Sofía García",
+          "Disponibilidades": [
+            {
+              "Tipo": "FinDeSemana",
+              "Dias": []
+            },
+            {
+              "Tipo": "Miercoles",
+              "Dias": []
+            }
+          ],
+          "PerteneceAUnEquipo": true
+        }
+      ]
+    },
+    {
+      "Nombre": "Equipo B",
+      "Empleados": [
+        {
+          "Legajo": 9,
+          "Nombre": "Pedro Díaz",
+          "Disponibilidades": [
+            {
+              "Tipo": "FinDeSemana",
+              "Dias": []
+            },
+            {
+              "Tipo": "Miercoles",
+              "Dias": []
+            }
+          ],
+          "PerteneceAUnEquipo": true
+        },
+        {
+          "Legajo": 10,
+          "Nombre": "Laura Sánchez",
+          "Disponibilidades": [
+            {
+              "Tipo": "FinDeSemana",
+              "Dias": []
+            },
+            {
+              "Tipo": "Miercoles",
+              "Dias": []
+            }
+          ],
+          "PerteneceAUnEquipo": true
+        }
+      ]
+    },
+    {
+      "Nombre": "Equipo C",
+      "Empleados": [
+        {
+          "Legajo": 6,
+          "Nombre": "María Fernández",
+          "Disponibilidades": [
+            {
+              "Tipo": "FinDeSemana",
+              "Dias": []
+            },
+            {
+              "Tipo": "DiaDelMes",
+              "Dias": [ 5, 15 ]
+            }
+          ],
+          "PerteneceAUnEquipo": true
+        },
+        {
+          "Legajo": 7,
+          "Nombre": "Diego Ramírez",
+          "Disponibilidades": [
+            {
+              "Tipo": "FinDeSemana",
+              "Dias": []
+            },
+            {
+              "Tipo": "DiaDelMes",
+              "Dias": [ 10, 20 ]
+            }
+          ],
+          "PerteneceAUnEquipo": true
+        }
+      ]
+    }
+  ]
+
+}
+
